@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/day08-oop/day08-oop.iml" filepath="$PROJECT_DIR$/day08-oop/day08-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/day09-exception/day09-exception.iml" filepath="$PROJECT_DIR$/day09-exception/day09-exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10-collection/day10-collection.iml" filepath="$PROJECT_DIR$/day10-collection/day10-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11-file-io/day11-file-io.iml" filepath="$PROJECT_DIR$/day11-file-io/day11-file-io.iml" />
     </modules>
   </component>
 </project>
