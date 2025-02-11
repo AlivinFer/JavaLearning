@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/day09-exception/day09-exception.iml" filepath="$PROJECT_DIR$/day09-exception/day09-exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10-collection/day10-collection.iml" filepath="$PROJECT_DIR$/day10-collection/day10-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/day11-file-io/day11-file-io.iml" filepath="$PROJECT_DIR$/day11-file-io/day11-file-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12-thread/day12-thread.iml" filepath="$PROJECT_DIR$/day12-thread/day12-thread.iml" />
     </modules>
   </component>
 </project>
