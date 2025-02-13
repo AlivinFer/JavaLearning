@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/day11-file-io/day11-file-io.iml" filepath="$PROJECT_DIR$/day11-file-io/day11-file-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/day12-thread/day12-thread.iml" filepath="$PROJECT_DIR$/day12-thread/day12-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/day13-net/day13-net.iml" filepath="$PROJECT_DIR$/day13-net/day13-net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14-junit-reflect-annotation-proxy/day14-junit-reflect-annotation-proxy.iml" filepath="$PROJECT_DIR$/day14-junit-reflect-annotation-proxy/day14-junit-reflect-annotation-proxy.iml" />
     </modules>
   </component>
 </project>
